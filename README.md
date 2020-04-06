@@ -7,7 +7,7 @@ handsome主题的assets目录下静态文件，配合jsDelivr白嫖静态加速
 ###  使用方法
 ***
 请按主题版本，在handsome静态加速处填入不同的链接
-![5.1.1][https://cdn.jsdelivr.net/gh/yzdp2020/handsome@master/5.1.1/]
+![5.1.1](https://cdn.jsdelivr.net/gh/yzdp2020/handsome@master/5.1.1/)
 
 ![5.2.0][https://cdn.jsdelivr.net/gh/yzdp2020/handsome@master/5.2.0/]
 
@@ -15,4 +15,4 @@ handsome主题的assets目录下静态文件，配合jsDelivr白嫖静态加速
 
 ![6.0.0][https://cdn.jsdelivr.net/gh/yzdp2020/handsome@master/6.0.0/]
 
-todo
+### todo
